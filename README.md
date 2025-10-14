@@ -16,10 +16,10 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 1.  **Clone o repositório:**
     ```bash
     # Se você estiver usando HTTPS
-    git clone https://github.com/seu-usuario/api-node.git
+    git clone https://github.com/caua090/api-node.git
 
     # Ou se estiver usando SSH
-    # git clone git@github.com:seu-usuario/api-node.git
+    # git clone git@github.com:caua090/api-node.git
 
     cd api-node
     ```
