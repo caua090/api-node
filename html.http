@@ -16,3 +16,11 @@ GET http://localhost:3000/usuario
 
 ###
 GET http://localhost:3000/usuario/3
+
+###
+PUT http://localhost:3000/usuario/3
+Content-Type: application/json
+
+{
+    "name": "John Updated"
+}
